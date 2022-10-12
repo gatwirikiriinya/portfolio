@@ -11,7 +11,7 @@ const Projects = () => {
   }, [])
   const projects = {
     Awwards: {
-      desc: "The application allows a user to post a project he/she has created and get it reviewed by his/her peers",
+      desc: "The application allows a user to post a project they have created and get it reviewed by their peers",
       techStack: "HTML, CSS, Python, Django",
       link: "https://github.com/felkiriinya/Awards",
       open: "https://fel-awards.herokuapp.com/accounts/login/?next=/",
