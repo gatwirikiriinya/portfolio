@@ -109,7 +109,7 @@ const Navbar = () => {
             </li>
 
             <li className="nav-item" data-aos="fade-up"  data-aos-duration="2000" data-aos-delay="200">
-              <a href="https://docs.google.com/document/d/1A9fqIaz3r5CoTWWFAuKY1SB0qEPafFHN5aKLQPcJxuM/edit?usp=sharing" target="_blank">
+              <a href="https://docs.google.com/document/d/1xZ3qUCTnPPdKH7B1nhtl9O9JqjHZFoCyRm19lkJJseU/edit?usp=sharing" target="_blank">
               <button className="btn">Resume</button>
               </a>
             </li>
