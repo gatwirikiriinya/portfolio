@@ -29,11 +29,7 @@ const Projects = () => {
       open: "https://daily-news-felista.herokuapp.com/",
 
     },
-    "Netflix Clone": {
-      desc: "Built a GPT-3 Powered Twitter Bot that automatically sends tweets after a given amount of time based on a chosen topic",
-      techStack: " HTML, CSS, Python, Django, Youtube API",
-      link: "https://github.com/JamesMokua/twitter-bot",
-    },
+  
     "Quality Appraisal": {
       desc: "Quality-Appraisal is a review platform for startup accelerators in Kenya. By gathering feedback shared by startups, Quality informs the decisions of others and helps ensure that future startups partner up with a company that best suits their needs.",
       techStack: "HTML, CSS, Python, Django",

@@ -81,6 +81,17 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
+    "Africa’s Pocket": {
+      jobTitle: "Frontend Engineer  @",
+      duration: "June 2022 - Present",
+      desc: [
+      
+
+        "Developed Camp Mulla-  a wealth-building platform built for Africans that allows you to make a personalized financial plan, invest for long and short-term goals and track your progress and learn as you go all in one account leading to a recurring revenue scale",
+        "Designed using Figma and created using Webflow for the company’s main educational site hence improving its user interface and experience, leading to a 30% increase in recurring users for the front end",
+        
+      ],
+    },
     "FinAccess": {
       jobTitle: "Software Engineer Intern @",
       duration: "SEP 2021 - Dec 2021",
